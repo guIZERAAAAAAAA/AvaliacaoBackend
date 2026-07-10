@@ -1,0 +1,23 @@
+{
+  "name": "avaliacaobackend",
+  "version": "1.0.0",
+  "description": "Avaliação de simulação de avaliação sobre BackEnd",
+  "homepage": "https://github.com/guIZERAAAAAAAA/AvaliacaoBackend#readme",
+  "bugs": {
+    "url": "https://github.com/guIZERAAAAAAAA/AvaliacaoBackend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guIZERAAAAAAAA/AvaliacaoBackend.git"
+  },
+  "license": "ISC",
+  "author": "guilherme",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
